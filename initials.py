@@ -5,7 +5,7 @@
 #date: 04/27/2017
 #assignment: get_initials
 #description: Given a users full name, return capitalized initials
-#testcases
+#testcases..
 
 def get_initials(fullname):
     name = (fullname)
